@@ -1,0 +1,11 @@
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\bin\Debug\netcoreapp2.2\Evmco.deps.json
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\bin\Debug\netcoreapp2.2\Evmco.runtimeconfig.json
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\bin\Debug\netcoreapp2.2\Evmco.runtimeconfig.dev.json
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\bin\Debug\netcoreapp2.2\Evmco.dll
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\bin\Debug\netcoreapp2.2\Evmco.pdb
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.csprojAssemblyReference.cache
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.csproj.CoreCompileInputs.cache
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.AssemblyInfoInputs.cache
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.AssemblyInfo.cs
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.dll
+C:\Users\R041803053\source\repos\ConsoleApp2\Evmco\obj\Debug\netcoreapp2.2\Evmco.pdb
